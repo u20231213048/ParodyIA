@@ -1,0 +1,17 @@
+{
+  "name": "parodyia",
+  "version": "1.0.0",
+  "description": "Un chatbot con IA en Llama que se ejecuta desde el navegador del usuario",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jeronimo Parody",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
